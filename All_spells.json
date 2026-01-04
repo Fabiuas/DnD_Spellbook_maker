@@ -4229,7 +4229,7 @@
         "duration": "Instantaneous",
         "range": "Self",
         "ritual": true,
-        "description": "You receive an omen from an otherworldly entity about the results of a course of action that you plan to take within the next 30 minutes. The DM chooses the omen from the Omens table. \n\n| **Omen**     | **For Results That Will Be...** |\n| ------------ | ------------------------------- |\n|              |                                 |\n| Weal         | Good                            |\n| Woe          | Bad                             |\n| Weal and woe | Good and bad                    |\n| Indifference | Neither good nor bad            |\n\nThe spell doesn't account for circumstances, such as other spells, that might change the results. If you cast the spell more than once before finishing a Long Rest, there is a cumulative 25 percent chance for each casting after the first that you get no answer.",
+        "description": "You receive an omen from an otherworldly entity about the results of a course of action that you plan to take within the next 30 minutes. The DM chooses from the following possible omens: **Weal**, for good results; **Woe**, for bad results; **Weal and Woe**, for both good and bad results; **Nothing**, for results that aren't especially good or bad. The spell doesn't account for circumstances, such as other spells, that might change the results. If you cast the spell more than once before finishing a Long Rest, there is a cumulative 25 percent chance for each casting after the first that you get no answer.",
         "cast_higher": false,
         "higher_levels": null,
         "classes": ["Cleric", "Druid", "Wizard"],
@@ -16302,3 +16302,4 @@
         "spell_id": "wish_phb2024"
     }
 ]
+
